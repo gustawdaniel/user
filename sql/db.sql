@@ -1,4 +1,4 @@
-DROP DATABASE a;
+-- DROP DATABASE a;
 CREATE DATABASE a;
 
 use a;
